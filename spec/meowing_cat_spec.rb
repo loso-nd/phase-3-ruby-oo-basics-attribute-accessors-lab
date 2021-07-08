@@ -28,3 +28,4 @@ describe "Cat" do
     maru.meow
   end
 end
+ 
